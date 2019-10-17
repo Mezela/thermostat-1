@@ -65,3 +65,4 @@ Thermostat.prototype.energyUsage = function() {
   else
     return 'high-usage';
 };
+
